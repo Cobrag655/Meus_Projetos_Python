@@ -1,0 +1,3 @@
+Este e um arquivo de texto.
+Estamos escrevendo no modo texto ('t').
+python facilita o manuseio de arquivos.
